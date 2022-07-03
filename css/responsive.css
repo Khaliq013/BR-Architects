@@ -1,0 +1,10 @@
+@media (max-width: 600px) {
+
+    .nav-right {
+        display: none;
+    }
+
+    .header-content h2 {
+        display: none;
+    }
+}
